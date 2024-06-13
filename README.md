@@ -39,8 +39,7 @@ Links to an external site.
 
 # Screenshot
 
-![screenshot](screenshot.png)
-
+![alt text](<assets/Screenshot 2024-06-13 at 1.46.43 AM.png>)
 
 # Credits: 
 Max Chaidez
