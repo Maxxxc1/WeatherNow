@@ -72,8 +72,8 @@ font-size: 35px;
 
 /* current day */
 .currentDay {
-    width: 200px;
-    height: 200px;
+    width: 225px;
+    height: 225px;
     background-color: #052342;
     padding: 15px;
     float: right;
@@ -87,8 +87,8 @@ font-size: 35px;
 
 /* daily forecast info */
   .dailyForecast{
-    width: 200px;
-    height: 200px;
+    width: 225px;
+    height: 225px;
     background-color: #052342;
     padding: 15px;
     float: right;
@@ -97,7 +97,7 @@ font-size: 35px;
     color: white;
     float: left;
     margin-top: 40px;
-    margin: 20px;
+    margin: 15px;
   }
 /* daily forecast info */
 
