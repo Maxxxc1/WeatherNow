@@ -1,0 +1,106 @@
+html {
+  background-color: rgb(111, 117, 159);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    font-family: share tech mono;
+    background-color: rgb(111, 117, 159);
+}
+
+h1 {
+    font-size: 35px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.title-container {
+    font-size: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: -15px;
+    padding: 20px;
+    background-color: rgba(26, 13, 206, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 10px 20px rgba(79, 72, 181, 0.1);
+    color: rgb(0, 0, 0);
+    background-color: #9b9bc5;
+    
+}
+
+#searchCityText {
+font-size: 35px;
+  position: relative;
+  left: 14.5%;
+  margin-top: 25px;
+  color: black;
+}
+
+/* search button stuff */
+#searchInput {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: dark;
+  }
+
+  #searchButton {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  /* search button stuff */
+
+.fivedayforecast {
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+}
+
+/* current day */
+.currentDay {
+    width: 200px;
+    height: 200px;
+    background-color: #052342;
+    padding: 15px;
+    float: right;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    margin-right: 285px;
+    margin-top: -236px;
+}
+/* current day */
+
+/* daily forecast info */
+  .dailyForecast{
+    width: 200px;
+    height: 200px;
+    background-color: #052342;
+    padding: 15px;
+    float: right;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    float: left;
+    margin-top: 40px;
+  }
+/* daily forecast info */
+
+.forecast-container {
+   margin-left: 130px;
+   margin-top: 65px;
+}
