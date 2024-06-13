@@ -33,6 +33,7 @@ The WeatherNow Webpage displays the 5-Day Weather and current Day forecast for a
 
 Repo: https://github.com/Maxxxc1/WeatherNow
 Deployed: https://maxxxc1.github.io/QuizGame/
+Leads to external site
 
 Links to an external site.
 
